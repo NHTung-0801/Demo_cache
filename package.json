@@ -1,0 +1,14 @@
+{
+  "name": "cache-demo",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ioredis": "^5.4.1",
+    "mysql2": "^3.11.3"
+  }
+}
